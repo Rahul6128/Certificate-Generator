@@ -2,7 +2,6 @@
 
 Backend API that takes a list of recipients and a certificate title, and
 generates a certificate image for each recipient against a fixed template.
-Built for the Bulk Certificate Generator backend assignment.
 
 ## Setup
 
